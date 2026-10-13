@@ -1,0 +1,9 @@
+/myls
+*.o
+*.d
+/demo/
+__pycache__/
+*.pyc
+*.zip
+*.swp
+*~
